@@ -1,5 +1,5 @@
 # Frontend Mentor - Password generator app
-
+live preview: https://y39webdeveloper.github.io/Password-generator-app
 ![Design preview for the Password generator app coding challenge](./preview.jpg)
 
 ## Welcome! 👋
